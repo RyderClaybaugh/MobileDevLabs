@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "digitalfoundry-2020-halo-3-master-chief-collection-tech-review-1594984762293.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

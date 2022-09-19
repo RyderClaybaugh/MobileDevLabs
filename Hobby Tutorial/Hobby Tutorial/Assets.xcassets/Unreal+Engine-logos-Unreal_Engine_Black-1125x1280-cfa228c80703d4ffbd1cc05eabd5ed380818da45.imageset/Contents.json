@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Unreal+Engine-logos-Unreal_Engine_Black-1125x1280-cfa228c80703d4ffbd1cc05eabd5ed380818da45.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
